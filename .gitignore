@@ -1,0 +1,9 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Ảnh slide (local only — không push lên GitHub)
+**/images/
+
+# PDF gốc (nếu có copy vào đây)
+*.pdf
